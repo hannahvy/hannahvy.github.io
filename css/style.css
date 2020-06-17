@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #000000;
+  background-color: #fff;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -18,12 +18,12 @@ body {
 .wrapper h2{
   padding: 0;
   margin: 0;
-  color: #fff;
+  color: #000;
   text-shadow: 0 2px 0 rgba(0,0,0,0,5);
   font-size: 60px;
 }
 .wrapper p{
-  color: #fff;
+  color: #000;
   font-size:18px;
   margin:0;
   line-height:35px;
@@ -35,7 +35,7 @@ span:before:{
 
 }
 
-#keyframes animate{
+@keyframes animate{
   0%{
     content: 'Freelancer';
   }
