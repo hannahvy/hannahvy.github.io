@@ -759,7 +759,7 @@ h1, h2, h3, h4, h5,
 
 /* Blocks */
 .bg-tertiary {
-  background: #fff6da; }
+  background: #ffffff; }
 
 .site-section-cover {
   position: relative;
@@ -1805,7 +1805,7 @@ h1, h2, h3, h4, h5,
     content: "";
     left: 0;
     top: 0;
-    background-color: #fff6da; }
+    background-color: #ffffff; }
 
 .media-29101 img {
   margin-bottom: 20px; }
@@ -1817,7 +1817,7 @@ h1, h2, h3, h4, h5,
     color: #6c757d; }
 
 .feature-92912 {
-  background-color: #fff6da;
+  background-color: #ffffff;
   padding: 40px;
   margin-bottom: 30px;
   position: relative;
@@ -1865,7 +1865,7 @@ h1, h2, h3, h4, h5,
 .testimony-29101 .text {
   width: 60%;
   padding: 40px;
-  background: #fff6da; }
+  background: #ffffff; }
   .testimony-29101 .text blockquote {
     position: relative;
     padding-bottom: 50px;
