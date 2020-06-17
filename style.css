@@ -1,6 +1,7 @@
 h1 {
   color: blue;
   font-family: 'Poppins', Arial, sans-serif;
+  text-align: center;
 }
 
 @font-face {
