@@ -1029,8 +1029,7 @@ h1, h2, h3, h4, h5,
 
 .post-entry {
   background: #fff;
-  padding: 30px;
-  border: 1px solid #e6e6e6;
+  border: 0;
   border-radius: 4px;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
