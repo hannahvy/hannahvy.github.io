@@ -3,15 +3,16 @@
 
 @font-face {
 font-family: "Poppins";
-src: url("hannahvy.github.io/fonts/poppins/poppins-regular-webfont.woff");
-src: url("hannahvy.github.io/fonts/poppins/poppins-regular-webfont.woff"); format("woff"),
+src: url("hannahvy.github.io/fonts/poppins/poppins-light-webfont.woff");
+src: url("hannahvy.github.io/fonts/poppins/poppins-light-webfont.woff"); format("woff"),
+url("hannahvy.github.io/fonts/poppins/poppins-light-webfont.svg") format("svg");
 }
 
 .chicken {
 font-family: "Poppins";
 font-weight:normal;
 font-style:normal;
-font-size: 60%;
+font-size: 80%;
 
 }
 
