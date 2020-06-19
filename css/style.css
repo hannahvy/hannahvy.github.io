@@ -1,4 +1,19 @@
 /* Base */
+
+
+@font-face {
+font-family: "Poppins";
+src: url("hannahvy.github.io/fonts/poppins-regular-webfont.woff");
+src: url("hannahvy.github.io/fonts/poppins-regular-webfont.woff"); format("woff"),
+}
+
+.chicken {
+font-family: 'CustomFont', Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+
+}
+
 html {
   overflow-x: hidden; }
 
