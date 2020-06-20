@@ -8,6 +8,11 @@ src: url("hannahvy.github.io/fonts/poppins/poppins-light-webfont.woff"); format(
 url("hannahvy.github.io/fonts/poppins/poppins-light-webfont.svg") format("svg");
 }
 
+.t2 {
+  font-size:16px;
+  color: #ee5253;
+}
+
 .chicken {
 font-family: "Poppins";
 font-weight:normal;
