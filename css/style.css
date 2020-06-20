@@ -1,5 +1,9 @@
 /* Base */
 
+img {
+  max-width: 50%;
+  height: auto;
+}
 
 @font-face {
 font-family: "Poppins";
