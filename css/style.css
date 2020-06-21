@@ -1,5 +1,7 @@
 /* Base */
-
+.twitch{
+  color: 9147ff;
+}
 .column1 {
   float: left;
   width: 50%;
