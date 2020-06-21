@@ -1,4 +1,9 @@
 /* Base */
+
+img {
+  border-radius: 50%;
+}
+
 .twitch{
   color: 9147ff;
 }
