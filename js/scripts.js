@@ -5,7 +5,13 @@
     */
     new TypeIt("#simpleUsage", {
       strings: "Hi! I'm a UX Design + Computer Science Student.",
-      speed: 70,
+      speed: 85,
+      loop: false,
+    }).go();
+
+    new TypeIt("#simpleUsage2", {
+      strings: "about me",
+      speed: 85,
       loop: false,
     }).go();
 
