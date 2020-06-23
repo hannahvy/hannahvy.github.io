@@ -3,21 +3,12 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
-    new TypeIt("#asyncExec", {
-  waitUntilVisible: true
-})
-  .type("Hold up!")
-  .exec(async () => {
-    //-- Return a promise that resolves after something happens.
-    await new Promise((resolve, reject) => {
-      setTimeout(() => {
-        return resolve();
-      }, 2000);
-    });
-  })
-  .type(" OK, now go.")
-  .go();
-  
+    new TypeIt("#simpleUsage", {
+      strings: "This is a simple string.",
+      speed: 50,
+      waitUntilVisible: true
+    }).go();
+    
     (function ($) {
     "use strict"; // Start of use strict
 
