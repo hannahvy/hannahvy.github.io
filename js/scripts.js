@@ -6,7 +6,7 @@
     new TypeIt("#simpleUsage", {
       strings: "Hi! I'm a UX Design and Computer Science Student.",
       speed: 70,
-      loop: false
+      loop: false,
     }).go();
 
     (function ($) {
