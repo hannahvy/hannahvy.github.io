@@ -10,7 +10,9 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-
+.gray{
+  color: #383838;
+}
  .test1{
     max-width:100%;
     height:auto;
