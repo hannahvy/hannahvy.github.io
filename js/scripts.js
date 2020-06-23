@@ -3,8 +3,8 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
-    new TypeIt("#element", {
-      strings: "Hi! I'm Hannah, a UX Design and Computer Science student.",
+    new TypeIt("#p", {
+      strings: "I'm a UX Design and Computer Science Student.",
       speed: 75,
       loop: true
     }).go();
