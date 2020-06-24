@@ -4,7 +4,7 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
     new TypeIt("#simpleUsage", {
-      strings: "Hi! I'm a UX Design + Computer Science Student.", "about me",
+      strings:
       speed: 85,
       loop: false,
     }).go();
