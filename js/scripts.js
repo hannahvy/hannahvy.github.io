@@ -4,13 +4,6 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
     new TypeIt("#simpleUsage", {
-      strings:
-      speed: 85,
-      loop: false,
-    }).go();
-
-    new TypeIt("#simpleUsage2", {
-      strings: "about me",
       speed: 85,
       loop: false,
     }).go();
