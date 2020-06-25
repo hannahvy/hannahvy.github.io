@@ -4,7 +4,7 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
     */
     new TypeIt("#simpleUsage", {
-      speed: 85,
+      speed: 90,
       loop: false,
     }).go();
 
