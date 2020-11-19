@@ -91,7 +91,7 @@ h6, .h6 {
 }
 
 .btn-main {
-  background: #D86736;
+  background: #88CCF7;
   color: #fff;
 }
 
@@ -106,7 +106,7 @@ h6, .h6 {
 }
 
 .btn-black:hover {
-  background: #D86736;
+  background: #88CCF7;
   color: #fff;
 }
 
@@ -128,13 +128,13 @@ a {
 }
 
 a:hover {
-  color: #D86736;
+  color: #88CCF7;
   text-decoration: none;
   outline: none;
 }
 
 .bg-primary {
-  background: #D86736 !important;
+  background: #88CCF7 !important;
 }
 
 .bg-secondary {
@@ -146,7 +146,7 @@ a:hover {
 }
 
 .text-color {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 .page-title h1 {
@@ -162,7 +162,7 @@ a:hover {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #D86736;
+  background: #88CCF7;
 }
 
 @media (max-width: 575px) {
@@ -231,7 +231,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
 }
 
 ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hover {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
@@ -363,7 +363,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .portfolio .btn-group .btn:hover {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 .portfolio .btn-group:not(:first-child) > .btn, .portfolio .btn-group > .btn:not(:first-child) {
@@ -372,7 +372,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .portfolio .btn.active {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 .inner-box {
@@ -619,7 +619,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 
 .form-control:focus {
   box-shadow: none;
-  border-color: #D86736;
+  border-color: #88CCF7;
 }
 
 textarea.form-control {
@@ -643,7 +643,7 @@ textarea.form-control {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #D86736;
+  background: #88CCF7;
 }
 
 .letter-spacing {
@@ -675,7 +675,7 @@ textarea.form-control {
 }
 
 .post .post-content a:hover h4 {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 .pagination {
@@ -694,12 +694,12 @@ textarea.form-control {
 }
 
 .pagination li a:hover {
-  background: #D86736;
+  background: #88CCF7;
   color: #fff;
 }
 
 .pagination li.active a {
-  background: #D86736;
+  background: #88CCF7;
   color: #fff;
 }
 
@@ -806,7 +806,7 @@ textarea.form-control {
 }
 
 .footer-widget a:hover {
-  color: #D86736;
+  color: #88CCF7;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
