@@ -76,7 +76,7 @@ h6, .h6 {
 .btn {
   padding: 18px 38px;
   border: 2px solid transparent;
-  text-transform: uppercase;
+  text-transform: none;
   border-radius: 0px;
   font-size: 14px;
   line-height: 14px;
@@ -193,7 +193,7 @@ a:hover {
 }
 
 .main-nav .header-top-socials a {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1px;
   font-size: 14px;
   padding: 20px 6px;
@@ -201,7 +201,7 @@ a:hover {
 
 .navbar-nav .nav-link {
   padding: 20px 15px !important;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 14px;
   letter-spacing: 1px;
   font-weight: 700;
@@ -227,7 +227,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
   padding-bottom: 10px;
   border-bottom: 1px solid #27243e;
   color: #fff;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hover {
