@@ -461,7 +461,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .overlay-content h5 {
-  text-transform: capitalize;
+  text-transform: none;
   background: rgba(255, 255, 255, 0.9);
   padding: 0px 8px;
   margin-bottom: 0px;
@@ -476,7 +476,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   margin-bottom: 0px;
   padding: 0px 8px;
   margin-top: 2px;
-  text-transform: capitalize;
+  text-transform: none;
   background: rgba(255, 255, 255, 0.9);
   color: #2f3238;
   -webkit-transform: translateX(-150px);
@@ -539,7 +539,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .progress-bar-content .progress-title {
-  text-transform: capitalize;
+  text-transform: none;
   font-size: 14px;
   color: #000;
   font-weight: 600;
@@ -562,7 +562,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .about-list li {
-  text-transform: capitalize;
+  text-transform: none;
   color: #000;
 }
 
@@ -708,7 +708,7 @@ textarea.form-control {
 }
 
 .sidebar-widget .widget-title {
-  text-transform: capitalize;
+  text-transform: none;
   position: relative;
   padding-bottom: 20px;
 }
@@ -728,7 +728,7 @@ textarea.form-control {
 }
 
 .sidebar-widget .tags a {
-  text-transform: capitalize;
+  text-transform: none;
   font-size: 15px;
   padding: 2px 13px;
   display: inline-block;
@@ -742,7 +742,7 @@ textarea.form-control {
 
 .sidebar-widget .category ul li {
   font-size: 15px;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .post-body span {
@@ -802,7 +802,7 @@ textarea.form-control {
 
 .footer-widget a {
   color: rgba(255, 255, 255, 0.5);
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .footer-widget a:hover {
