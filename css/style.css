@@ -92,33 +92,33 @@ h6, .h6 {
 
 .btn-main {
   background: #696969;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .btn-main:hover {
-  color: #fff !important;
+  color: #9FA1A7 !important;
   background: #000;
 }
 
 .btn-black {
   background: #000;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .btn-black:hover {
   background: #696969;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .btn-white {
-  background: #fff;
+  background: #9FA1A7;
   color: #000;
-  border-color: #fff;
+  border-color: #9FA1A7;
 }
 
 .btn-white:hover {
   background: transparent;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 a {
@@ -226,7 +226,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
   padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #27243e;
-  color: #fff;
+  color: #9FA1A7;
   text-transform: none;
 }
 
@@ -235,7 +235,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
-  color: #fff;
+  color: #9FA1A7;
   text-decoration: none;
   background-color: transparent;
 }
@@ -457,12 +457,12 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 
 .inner-box .image h3 {
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .overlay-content h5 {
   text-transform: none;
-  background: rgba(255, 255, 255, 0.9);
+  background: #9FA1A7;
   padding: 0px 8px;
   margin-bottom: 0px;
   -webkit-transform: translateX(-150px);
@@ -477,7 +477,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   padding: 0px 8px;
   margin-top: 2px;
   text-transform: none;
-  background: rgba(255, 255, 255, 0.9);
+  background: #9FA1A7;
   color: #2f3238;
   -webkit-transform: translateX(-150px);
   transform: translateX(-150px);
@@ -491,7 +491,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   display: inline-block;
   text-align: center;
   background: #000;
-  color: #fff;
+  color: #9FA1A7;
   padding-top: 16px;
   position: absolute;
   top: 40%;
@@ -695,12 +695,12 @@ textarea.form-control {
 
 .pagination li a:hover {
   background: #696969;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .pagination li.active a {
   background: #696969;
-  color: #fff;
+  color: #9FA1A7;
 }
 
 .sidebar-widget .widget {
