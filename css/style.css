@@ -138,11 +138,11 @@ a:hover {
 }
 
 .bg-secondary {
-  background: #f7f7f7 !important;
+  background: #696969 !important;
 }
 
 .bg-extra {
-  background: #e8eefb !important;
+  background: #696969 !important;
 }
 
 .text-color {
@@ -573,7 +573,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   margin: 0 0 35px 0;
   border-radius: 0px;
   height: 7px;
-  background-color: #f7f8f9;
+  background-color: #9FA1A7;
 }
 
 .progress-bar {
@@ -614,7 +614,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 .form-control {
   border-radius: 0px;
   height: 45px;
-  border-color: #e8eefb;
+  border-color: #9FA1A7;
 }
 
 .form-control:focus {
@@ -683,7 +683,7 @@ textarea.form-control {
 }
 
 .pagination li a {
-  background: #f6f6f6;
+  background: #9FA1A7;
   font-size: 14px;
   font-weight: 600;
   display: inline-block;
